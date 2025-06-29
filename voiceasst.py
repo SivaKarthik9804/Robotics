@@ -24,7 +24,7 @@ voices = speaker.getProperty('voices')  # Fixed typo
 speaker.setProperty('voice', voices[1].id)  # Female voice
 
 # Virtual Assistant Name
-va_name = 'cmos'
+va_name = 'VOICE'
 
 # Set the COM port (adjust as per your device)
 try:
